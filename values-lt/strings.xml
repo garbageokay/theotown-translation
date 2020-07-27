@@ -3,7 +3,7 @@
     <string name="settings_title">Nustatymai</string>
     <string name="loadcity_title">Atidaryti Miestą</string>
     <string name="createcity_title">Naujas Miestas</string>
-    <string name="settings_defaults">Numatytieji</string>
+    <string name="settings_defaults">Užstatymai</string>
     <string name="settings_apply">Taikyti</string>
     <string name="createcity_mapsize">Dydis:</string>
     <string name="createcity_cityname">Miesto pavadinimas:</string>
@@ -49,7 +49,7 @@
     <string name="settings_drawmapedges">Rodyti žemėlapio kraštus</string>
     <string name="settings_hideads_title">Paslėpti skelbimus</string>
     <string name="settings_hideads_text">Jei tikrai norite paslėpti reklamas, būtų malonu mus paremti pranešant draugams apie programą.
-\n\nAre you sure?</string>
+\n\nAr jūs esate įsitikinę?</string>
     <string name="settings_hideads_yes">Taip, aš tikrai įsitikines</string>
     <string name="settings_hideads_no">Atšaukti</string>
     <string name="loadcity_errordialog_title">Atidarymas nepavyko</string>
@@ -93,12 +93,12 @@
     <string name="draft_church00_text">Kiekvienam mažam miesteliui reikia bažnyčios.</string>
     <string name="draft_townhall00_title">Miesto rotušė</string>
     <string name="draft_townhall00_text">Dideliui miestui reikia miesto rotušės. Gyventojams tai patiks.</string>
-    <string name="draft_wire00_title">Elektros linijos</string>
-    <string name="draft_wire00_text">Panaudokite šiuos laidus sujungti jūsų miestą su jūsų elektrinėmis.</string>
+    <string name="draft_wire00_title">Elektros Laidai</string>
+    <string name="draft_wire00_text">Panaudokite šiuos laidus, kad sujungtumėte jūsų miestą su jūsų elektrinėmis.</string>
     <string name="draft_windturbine00_title">Vėjo jėgainė</string>
     <string name="draft_windturbine00_text">Vėjo jėgainė skleidžia garsą, bet neskleidžia teršalų.</string>
     <string name="draft_coalplant00_title">Anglies elektrinė</string>
-    <string name="draft_coalplant00_text">Anglies elektrinės pagamina daug energijos, tačiau daro blogą įtaką aplinkai.</string>
+    <string name="draft_coalplant00_text">Anglies elektrinės pagamina daug energijos, tačiau daro blogą aplinkai.</string>
     <string name="draft_solarpanels00_title">Saulės baterijos</string>
     <string name="draft_solarpanels00_text">Saulės baterijos yra geros aplinkai ir jie neteršia aplinkos.</string>
     <string name="draft_park00_title">Mažas gėlių parkas</string>
@@ -118,11 +118,11 @@
     <string name="draft_medic01_title">Ligoninė</string>
     <string name="draft_medic01_text">Gyventojai jaučiasi saugesni prie ligoninės.</string>
     <string name="draft_school00_title">Pradinė mokykla</string>
-    <string name="draft_school00_text">Vietą kur vaikai išmoksta dalykus.</string>
+    <string name="draft_school00_text">Vietą kur vaikai išmoksta naujus dalykus.</string>
     <string name="draft_school01_title">Vidurinė mokykla</string>
-    <string name="draft_school01_text">Vietą kur vyresni vaikai išmoksta dalykus.</string>
+    <string name="draft_school01_text">Vietą kur vyresni vaikai išmoksta naujus dalykus.</string>
     <string name="draft_museum00_title">Muziejus</string>
-    <string name="draft_museum00_text">Vieta kur seni žmonės išmoksta dalykus.</string>
+    <string name="draft_museum00_text">Vieta kur seni žmonės išmoksta naujus dalykus.</string>
     <string name="draft_pipe00_title">Vandentiekio vamzdis</string>
     <string name="draft_pipe00_text">Vandentiekio vamzdžiai gali būti panaudoti vandens tiekimui jūsų pastatams.</string>
     <string name="draft_waterpump00_title">Vandens siurblys</string>
@@ -161,7 +161,7 @@
     <string name="topic_cake">Tortas yra melas!</string>
     <string name="topic_panic">Nepanikuokite</string>
     <string name="draft_bigschool00_title">Didelė pradinė mokykla</string>
-    <string name="draft_bigschool00_text">Vieta kur jauni gyventojai išmoksta dalykus, kai jie esą per seni pradinei mokyklai.</string>
+    <string name="draft_bigschool00_text">Vieta kur jauni gyventojai išmoksta naujus dalykus, kai jie esą per seni pradinei mokyklai.</string>
     <string name="draft_treepark00_title">Medžių parkas</string>
     <string name="draft_treepark00_text">Mažas parkas su medžiais. Jūsų gyventojams tai patiks.</string>
     <string name="menu_premium">Mokamas</string>
@@ -239,7 +239,7 @@
     <string name="about_programming">Programavimas</string>
     <string name="about_graphics">Grafikos</string>
     <string name="about_music">Muzika</string>
-    <string name="about_engine">grafikos variklis</string>
+    <string name="about_engine">Grafikos variklis</string>
     <string name="draft_police00_title">Policijos departamentas</string>
     <string name="draft_police00_text">Dėl didesnio saugumo.</string>
     <string name="settings_showinfluencepreview">Rodyti įtakos peržiūrą</string>
@@ -248,14 +248,14 @@
     <string name="draft_zoneresidential_title">Rezidentinė</string>
     <string name="draft_zoneresidential_text">Rezidentai šioje zonoje statysis namus.</string>
     <string name="draft_zonecommercial_title">Komercinė</string>
-    <string name="draft_zonecommercial_text">Šioje zonoje gali būti statomi komerciniai pastatai.</string>
+    <string name="draft_zonecommercial_text">Šioje zonoje bus statomi komerciniai pastatai.</string>
     <string name="draft_zoneindustrial_title">Pramonės</string>
     <string name="draft_zoneindustrial_text">Šioje zonoje bus statomi pramoniniai pastatai.</string>
     <string name="draft_road00_title">Žvyrkelis</string>
     <string name="draft_road00_text">Paprastas neasfaltuotas kelias.</string>
     <string name="draft_road01_title">Valstybinis kelias</string>
     <string name="draft_road01_text">Mašinos gali greitai ant jo važiuoti.</string>
-    <string name="draftselector_titleterrain">reljefas</string>
+    <string name="draftselector_titleterrain">Reljefas</string>
     <string name="draft_terrainwater_title">Vanduo</string>
     <string name="draft_terrainwater_text">Padėkite vandenį į savo žemėlapį.</string>
     <string name="draft_terrainland_title">Žemė</string>
